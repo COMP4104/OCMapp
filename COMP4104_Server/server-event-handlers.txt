@@ -1,0 +1,10 @@
+event-num=3
+
+event-name1=REQUESTROUTE
+event-class1=events.RouteRequestEvent
+
+event-name2=REQUESTALLROUTES
+event-class2=events.AllRoutesRequestEvent
+
+event-name3=TRIPREQUEST
+event-class3=events.TripRequestEvent
