@@ -1,0 +1,5 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+SEPT11-SEPDA11-Weekday-89,1,1,1,1,1,0,0,20110923,20111223
+SEPT11-SEPSA11-Saturday-33,0,0,0,0,0,1,0,20110924,20111224
+SEPT11-SEPSU11-Sunday-35,0,0,0,0,0,0,1,20110925,20111218
+SEPT11-S11-Fri-Friday-01,0,0,0,0,1,0,0,20110923,20111223

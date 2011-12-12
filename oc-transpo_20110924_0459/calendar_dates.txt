@@ -1,0 +1,3 @@
+service_id,date,exception_type
+SEPT11-SEPDA11-Weekday-89,20111010,2
+SEPT11-SEPSU11-Sunday-35,20111010,1
